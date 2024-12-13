@@ -1,0 +1,1 @@
+The `binarySearch` method takes in a sorted array of integers `arr` and a target integer `target`. It performs the binary search algorithm to find the index of the target integer in the array. If the target integer is found, it returns the index. If the target integer is not present in the array, it returns -1.
